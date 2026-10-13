@@ -36,12 +36,6 @@ The scripts follow a two-stage flow: Exploratory Data Analysis (steps 1 to 6), t
 
 [![Data Analytics Roadmap](docs/project_roadmap.png)](docs/project_roadmap.png)
 
-## 🛠️ Tech Stack
-
-- SQL Server (T-SQL)
-- SQL Server Management Studio (SSMS)
-- Note: `DATETRUNC()` requires SQL Server 2022 or later
-
 ## 🗄️ Data Model
 
 Star schema in the `gold` schema of the `DataWarehouseAnalytics` database.
