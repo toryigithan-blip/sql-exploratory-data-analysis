@@ -17,7 +17,7 @@ The result is a repeatable analytics workflow that answers core questions: what 
 
 This project was built for educational purposes by following the tutorial series by Baraa Khatib Salkini (Data With Baraa).
 
-* Tutorial videos: [Video 1](https://www.youtube.com/watch?v=6cJ5Ji8zSDg), [Video 2](https://www.youtube.com/watch?v=2jGhQpbzHes&t=4879s)
+* Tutorial videos: [SQL Exploratory Data Analysis](https://www.youtube.com/watch?v=6cJ5Ji8zSDg), [SQL Advance Analytics](https://www.youtube.com/watch?v=2jGhQpbzHes&t=4879s)
 * Author's website: [datawithbaraa.com](https://www.datawithbaraa.com)
 
 The original work is licensed under the [MIT License](https://github.com/DataWithBaraa/sql-data-analytics-project/blob/main/LICENSE). All credit for the project concept, dataset, and structure goes to the original author.
