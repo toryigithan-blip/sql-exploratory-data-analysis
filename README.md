@@ -86,13 +86,13 @@ sql-exploratory-data-analysis/
 
 **`gold.report_customers`**
 - Customer name, age, and age group
-- Segment: VIP (12+ months, over 5,000 in sales), Regular (12+ months, 5,000 or less), New (under 12 months)
+- Segment: VIP (12+ months, over 5,000$ in sales), Regular (12+ months, 5,000$ or less), New (under 12 months)
 - Metrics: total orders, sales, quantity, products, lifespan
 - KPIs: recency, average order value, average monthly spend
 
 **`gold.report_products`**
 - Product name, category, subcategory, cost
-- Segment: High-Performer (over 50,000), Mid-Range (10,000 to 50,000), Low-Performer (under 10,000)
+- Segment: High-Performer (over 50,000$ in sales), Mid-Range (10,000$ to 50,000$ in sales), Low-Performer (under 10,000$ in sales)
 - Metrics: total orders, sales, quantity, unique customers, lifespan
 - KPIs: recency, average selling price, average order revenue, average monthly revenue
 
