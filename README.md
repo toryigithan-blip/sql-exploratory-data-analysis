@@ -90,14 +90,6 @@ sql-exploratory-data-analysis/
 - Metrics: total orders, sales, quantity, unique customers, lifespan
 - KPIs: recency, average selling price, average order revenue, average monthly revenue
 
-## 🚀 Getting Started
-
-1. Install SQL Server and SSMS.
-2. Clone this repository.
-3. Update the CSV file paths in `00_init_database.sql` to match your local folder.
-4. Run `00_init_database.sql`. Warning: it drops and recreates the `DataWarehouseAnalytics` database.
-5. Run the remaining scripts in numeric order (01 to 13).
-
 ## ✅ Best Practices Shown
 
 - Header comment in every script with purpose and functions used
